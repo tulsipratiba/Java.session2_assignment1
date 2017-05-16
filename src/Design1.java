@@ -9,7 +9,7 @@ public class Design1 {
         
         int n = s.nextInt();
         
-        int i, j; // variable of type intezer
+        int i, j; // variable of type integer
         s.close();
         for (i = 1; i <= n; i++)  //increment the value of i till n
         {
