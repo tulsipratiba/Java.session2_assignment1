@@ -1,11 +1,8 @@
 import java.util.Scanner;
 
 public class Design1 {
-
-	
 	public static void main(String[] args) 
 	{
-
         Scanner s = new Scanner(System.in);
         System.out.println("enter the number of rows=column");
         int n = s.nextInt();
